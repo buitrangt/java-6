@@ -1,0 +1,3 @@
+interface AnimalSound {
+    void makeSound();
+}
